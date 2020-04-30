@@ -20,7 +20,7 @@ public class Prjava21 {
             bw.newLine();
             bw.write("    <title>");
             bw.newLine();
-            bw.write("      Nova p&agrave;gina  web");
+            bw.write("      Nova p&agrave;gina  webs");
             bw.newLine();
             bw.write("    </title>");
             bw.newLine();
